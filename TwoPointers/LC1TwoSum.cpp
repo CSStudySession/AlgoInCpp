@@ -3,7 +3,6 @@
 //
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 class LC1TwoSum {
@@ -14,7 +13,8 @@ public:
     }
 };
 
+
+
 int main() {
-    std::cout << "Hello, World in two sum!" << std::endl;
     return 0;
 }
