@@ -1,0 +1,4 @@
+
+include_directories(.)
+
+add_executable(Graph AW849DijkstraI.cpp AW850DijkstraII.cpp AW853BFWithEdgeNumLimit.cpp AW851SPFA.cpp AW852NegativeCycleSPFA.cpp AW854Floyd.cpp AW858PrimMinSpanningTree.cpp AW859KruskalMinSpanningTree.cpp AW860ColoringGraph.cpp AW861BipartiteGraphMaxMatching.cpp)
