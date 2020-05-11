@@ -1,4 +1,4 @@
 
 include_directories(.)
 
-add_executable(Math AW866TestDivPrime.cpp AW867PrimFactors.cpp AW868FilteringPrime.cpp AW869TestDivideGetFactors.cpp AW870NumberOfactors.cpp AW871SumOfFactors.cpp AW872GCD.cpp)
+add_executable(Math AW866TestDivPrime.cpp AW867PrimFactors.cpp AW868FilteringPrime.cpp AW869TestDivideGetFactors.cpp AW870NumberOfactors.cpp AW871SumOfFactors.cpp AW872GCD.cpp AW873EulerFunction.cpp AW874LinearFilterEulerFunction.cpp AW875FastExponentiation.cpp AW876InverseQMI.cpp AW877EuclideanAlgoExtension.cpp AW878LinearCongruenceEquation.cpp AW204ChineseRemainderTheorem.cpp)
