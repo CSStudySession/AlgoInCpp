@@ -1,8 +1,6 @@
 //
 // AcWing 866 试除法判定质数
 // link: https://www.acwing.com/problem/content/868/
-
-#include <cstring>
 #include <algorithm>
 
 using namespace std;
@@ -21,7 +19,7 @@ int main() {
     int n;
     scanf("%d", &n);
 
-    for (; n > 0; n--) {
+    for (; n-- > 0; ) {
         int x;
         scanf("%d", &x);
         if (isPrime(x)) puts("Yes");

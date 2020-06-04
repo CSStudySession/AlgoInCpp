@@ -13,5 +13,6 @@ ADD_SUBDIRECTORY(Graph)
 ADD_SUBDIRECTORY(Math)
 ADD_SUBDIRECTORY(Tree)
 ADD_SUBDIRECTORY(Hash)
+ADD_SUBDIRECTORY(BinarySearch)
 
 add_executable(AlgoInCpp main.cpp)

@@ -57,6 +57,7 @@ public:
     }
 };
 
+/*
 int main() {
     NumberOfEnclaves inst;
     vector<vector<int>> A =
@@ -67,5 +68,5 @@ int main() {
     int result = inst.numEnclaves(A);
     return result;
 }
-
+*/
 
