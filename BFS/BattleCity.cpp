@@ -50,6 +50,7 @@ int bfs(vector<vector<char>>& map, vector<vector<bool>>& visited) {
     return -1;
 }
 
+/*
 int main() {
     vector<vector<char>> map = {{'S', 'E', 'B', 'Y'}, {'S', 'T', 'B', 'B'}};
     int m = map.size(), n = map[0].size();
@@ -59,3 +60,4 @@ int main() {
     int ret = bfs(map, visited);
     cout << "ret == " << ret << endl;
 }
+ */
