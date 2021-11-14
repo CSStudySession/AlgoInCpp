@@ -1,4 +1,4 @@
 
 include_directories(.)
 
-add_executable(StackRelated LC907SumOfSubarrayMinimums.cpp LC856ScoreOfParentheses.cpp)
+add_executable(StackRelated LC907SumOfSubarrayMinimums.cpp LC856ScoreOfParentheses.cpp LC1209RemoveAllAdjacentDuplicatesInStringII.cpp)

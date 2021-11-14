@@ -8,7 +8,7 @@
 
 using namespace std;
 
-class Solution {
+class LC333 {
 public:
     int largestBSTSubtree(TreeNode* root) {
         int res = 0;

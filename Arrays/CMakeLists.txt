@@ -1,4 +1,4 @@
 
 include_directories(.)
 
-add_executable(Arrays AW791BigIntAddition.cpp AW792BigIntSubtraction.cpp AW793BigIntMultiply.cpp AW794BigIntDivision.cpp AW795PrefixSum.cpp AW796SubmatrixSum.cpp)
+add_executable(Arrays AW791BigIntAddition.cpp AW792BigIntSubtraction.cpp AW793BigIntMultiply.cpp AW794BigIntDivision.cpp AW795PrefixSum.cpp AW796SubmatrixSum.cpp LC277FindTheCelebrity.cpp LC118PascalsTriangle.cpp LC119PascalsTriangleII.cpp)
